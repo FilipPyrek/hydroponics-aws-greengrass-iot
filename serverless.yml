@@ -1,0 +1,14 @@
+service: hydroponics
+
+frameworkVersion: '2'
+
+provider:
+  name: aws
+  runtime: python3.7
+  lambdaHashingVersion: 20201221
+  stage: master
+  region: eu-central-1
+
+functions:
+  hello:
+    handler: handler.fce

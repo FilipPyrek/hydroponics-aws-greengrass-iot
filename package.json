@@ -1,0 +1,21 @@
+{
+  "name": "hydroponics-aws-greengrass-iot",
+  "version": "1.0.0",
+  "description": "hydroponics-aws-greengrass-iot",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FilipPyrek/hydroponics-aws-greengrass-iot.git"
+  },
+  "author": "Filip Pyrek <PyrekFilip@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/FilipPyrek/hydroponics-aws-greengrass-iot/issues"
+  },
+  "homepage": "https://github.com/FilipPyrek/hydroponics-aws-greengrass-iot#readme",
+  "dependencies": {
+    "aws-greengrass-core-sdk": "^1.7.0"
+  },
+  "devDependencies": {}
+}
