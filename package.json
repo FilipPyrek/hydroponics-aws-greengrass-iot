@@ -15,7 +15,9 @@
   },
   "homepage": "https://github.com/FilipPyrek/hydroponics-aws-greengrass-iot#readme",
   "dependencies": {
-    "aws-greengrass-core-sdk": "^1.7.0"
+    "aws-sdk": "^2.918.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "rpi-gpio": "^2.1.7"
+  }
 }
